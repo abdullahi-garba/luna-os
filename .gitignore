@@ -1,0 +1,9 @@
+build/
+*.o
+*.iso
+*.bin
+*.elf
+*.map
+.vscode/
+__pycache__/
+*.swp
